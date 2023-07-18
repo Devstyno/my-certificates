@@ -1,3 +1,3 @@
 # my-certifications
 
-All my current certifications are here !
+All my current certificates are here !
